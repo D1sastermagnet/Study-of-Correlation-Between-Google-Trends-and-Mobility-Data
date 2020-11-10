@@ -10,7 +10,7 @@ Our focus was on studying the correlation between **mobility data** and **shoppi
 
 ## Contents
 
-This README is a document summary. View the complete notebook [here](Study of the Correlation Between Google Trends Data and Mobility Data.ipynb).
+This README is a document summary. View the complete notebook [here](Study_of _the_Correlation_Between_Google_Trends_Data_and_Mobility_Data.ipynb).
 
 1. Libraries Used
 2. Datasets Used
@@ -33,12 +33,12 @@ The notebook was created and edited using Jupyter Notebooks. The language used w
 ## Datasets Used
 
 **Name:** Covid Mobility Reports
-**URL:** https://www.google.com/covid19/mobility/
+<br>**URL:** https://www.google.com/covid19/mobility/
 
 We use the "Retail and Recreation" and "Grocery and Pharmacy" data fields.
 
 **Name:** Google Query Trends
-**URL:** https://trends.google.com/trends/?geo=US
+<br>**URL:** https://trends.google.com/trends/?geo=US
 
 *Note: We only focus on Singapore's data.*
 
