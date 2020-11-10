@@ -10,7 +10,7 @@ Our focus was on studying the correlation between **mobility data** and **shoppi
 
 ## Contents
 
-This README is a document summary. View the complete notebook [here](Study of Google Trends Data and Mobility Data.ipynb).
+This README is a document summary. View the complete notebook [here](Study of the Correlation Between Google Trends Data and Mobility Data.ipynb).
 
 1. Libraries Used
 2. Datasets Used
