@@ -10,7 +10,7 @@ Our focus was on studying the correlation between **mobility data** and **shoppi
 
 ## Contents
 
-This README is a document summary. View the complete notebook [here](https://github.com/D1sastermagnet/Study-of-Correlation-Between-Google-Trends-and-Mobility-Data/blob/main/Study_of%20_the_Correlation_Between_Google_Trends_Data_and_Mobility_Data.ipynb).
+This README is a document summary. View the complete notebook [here](https://github.com/D1sastermagnet/Study-of-Correlation-Between-Google-Trends-and-Mobility-Data/blob/main/Study%20of%20the%20Correlation%20Between%20Google%20Trends%20Data%20and%20Mobility%20Data.ipynb).
 
 1. Libraries Used
 2. Datasets Used
